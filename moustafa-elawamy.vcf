@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:ElAwamy;Moustafa;;;
+FN:Moustafa ElAwamy
+ORG:Cluster
+TITLE:Founder & CEO
+TEL;TYPE=CELL,VOICE:+20 109 216 1293
+EMAIL;TYPE=INTERNET,WORK:moustafa.elawamy@clusterapp.net
+URL:https://clusterapp.net
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/moustafaelawamy
+ADR;TYPE=WORK:;;Smart Village, Building B5, Cairo-Alex Desert Road;Giza;;;Egypt
+END:VCARD
