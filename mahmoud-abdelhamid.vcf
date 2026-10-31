@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:AbdElHamid;Mahmoud;M.;;
+FN:Mahmoud M. AbdElHamid
+ORG:Cluster
+TITLE:Co-founder & CTO
+TEL;TYPE=CELL,VOICE:+20 100 1321 379
+EMAIL;TYPE=INTERNET,WORK:mahmoud@clusterapp.net
+URL:https://clusterapp.net
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/elawwamy
+ADR;TYPE=WORK:;;Smart Village, Building B5, Cairo-Alex Desert Road;Giza;;;Egypt
+END:VCARD
